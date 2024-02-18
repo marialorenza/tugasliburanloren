@@ -1,0 +1,2 @@
+# tugasliburanloren
+setting up git
